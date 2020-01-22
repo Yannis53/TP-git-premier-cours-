@@ -1,4 +1,6 @@
 ### application.bat - 2020 - Yannis Zemirline ###
-echo :"Copyright company - 2020"
-echo "Build : 10:00"
-echo "version 1.1"
+version = "2"
+build_hour = "15H35"
+
+echo "Build ${15H35}"
+echo "version ${2}"
